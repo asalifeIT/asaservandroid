@@ -1,0 +1,8 @@
+{
+  "name": "asaservicejwt",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}
