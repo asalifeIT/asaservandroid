@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'asaservicejwt',
+  appId: 'com.asalife.service',
+  appName: 'asalifeserveice',
   webDir: 'www',
   bundledWebRuntime: false,
   cordova: {

@@ -1,5 +1,5 @@
 {
-  "name": "MyAppIonic4",
+  "name": "asalifeservice",
   "version": "0.0.1",
   "author": "Ionic Framework",
   "homepage": "https://ionicframework.com/",
@@ -81,5 +81,14 @@
     "platforms": [
       "browser"
     ]
+  },
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asalifeIT/asaservandroid.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asalifeIT/asaservandroid/issues"
   }
 }

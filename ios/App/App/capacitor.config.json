@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "asaservicejwt",
+	"appId": "com.asalife.service",
+	"appName": "asalifeserveice",
 	"webDir": "www",
 	"bundledWebRuntime": false,
 	"cordova": {
