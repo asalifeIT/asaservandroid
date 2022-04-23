@@ -79,7 +79,7 @@ ion-note{
           }
         }
         ion-card {
-          box-shadow: -1px 11px 10px -6px rgb(36, 18, 151);
+          box-shadow: -1px 11px 10px -6px rgb(32, 110, 235);
           border-radius: 10px !important;
           margin: 5px 5px;
           ion-thumbnail {
@@ -95,9 +95,9 @@ ion-note{
           ion-card-content {
             ion-label {
               font-weight: "regular";
-              font-size: 10px;
-              text-shadow: 1px 1px 1px var(--ion-color-medium);
+              font-size: 15px;
               letter-spacing: 0.1px;
+              text-shadow: 1px 1px 1px var(--ion-color-medium);
             }
           }
         }

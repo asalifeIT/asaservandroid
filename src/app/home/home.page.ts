@@ -13,19 +13,19 @@ import { UtilService } from 'src/app/services/util.service';
 })
 export class HomePage implements OnInit {
   features: any[] = [
-    {id: 1, name: 'Catering', src: 'assets/images/cat.png', background: 'rgba(27,150,181, 0.1)', page: ''},
+    {id: 1, name: 'Catering', src: 'assets/svg/dining.svg', background: '', page: ''},
   ]; 
 
   laundry: any[] = [
-    {id: 1, name: 'Laundry', src: 'assets/icons/laundry.png', background: 'rgba(27,150,181, 0.1)', page: ''},
+    {id: 1, name: 'Laundry', src: 'assets/svg/washing-machine.svg', background: '', page: ''},
   ];
 
   housekeeping: any[] = [
-    {id: 1, name: 'House Keeping', src: 'assets/icons/hk.png', background: 'rgba(27,150,181, 0.1)', page: ''},
+    {id: 1, name: 'House Keeping', src: 'assets/svg/handyman.svg', background: '', page: ''},
   ];
 
   admaintan: any[] = [
-    {id: 1, name: 'Maintenance', src: 'assets/icons/mainten.png', background: 'rgba(27,150,181, 0.1)', page: ''},
+    {id: 1, name: 'Maintenance', src: 'assets/svg/builder.svg', background: '', page: ''},
   ];
 
 
